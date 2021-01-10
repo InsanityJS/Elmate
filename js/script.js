@@ -13,5 +13,3 @@ linkItem.forEach((item) => {
         nav.classList.remove("active");
     });
 });
-=----------------------------------------
-o90p
